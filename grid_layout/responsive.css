@@ -16,7 +16,8 @@
     }
 
     .item1,
-    .item4 {
+    .item4,
+    .item5 {
         grid-column: 1 / 3;
     }
 }
